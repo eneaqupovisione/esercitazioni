@@ -1,0 +1,2 @@
+# Trading
+raccolta di progetti 
